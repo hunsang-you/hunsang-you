@@ -7,10 +7,10 @@
 
 
 ***
-<td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a></td>
+<td align="center"><a href="https://github.com/hunsang-you"><img src="https://github.com/hunsang-you.png" width="100px;" alt=""/></a></td>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gjstkd123)](https://solved.ac/gjstkd123)
- <img src="https://e.kakao.com/t/mindless-amoo#/api?handle=gjstkd123&theme=warm"/><br>
+ <img src="http://mazandi.herokuapp.com/api?handle=gjstkd123&theme=warm"/><br>
  [![hunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunsang-you)](https://github.com/hunsang-you/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostiny&layout=compact)](https://github.com/hunsang-you/github-readme-stats)<br>
 
