@@ -7,7 +7,7 @@
 
 
 ***
-<td align="center"><a href="https://github.com/hunsang-you"><img src="https://github.com/hunsang-you.png" width="100px;" alt=""/></a></td>
+<td align="center"><a href="https://github.com/hunsang-you"><img src="https://github.com/brainstorming.png" width="100px;" alt=""/></a></td>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gjstkd123)](https://solved.ac/gjstkd123)
  <img src="http://mazandi.herokuapp.com/api?handle=gjstkd123&theme=warm"/><br>
